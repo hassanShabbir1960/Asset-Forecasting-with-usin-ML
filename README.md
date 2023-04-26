@@ -20,8 +20,9 @@ To install the required packages for this project, you can use the requirements.
 First, ensure that you have Python installed on your system. This project requires Python version 3.6 or higher.
 
 To install the packages listed in requirements.txt, open a terminal window and navigate to the directory where the file is located. Then, run the following command:
-
+`
 pip install -r requirements.txt
+`
 
 This will install all the packages and their dependencies listed in requirements.txt.
 
