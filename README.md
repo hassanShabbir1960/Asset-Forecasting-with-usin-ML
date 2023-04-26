@@ -14,6 +14,21 @@ This project focuses on asset price forecasting using a Generative Adversarial N
 4. [Results](#results)
 5. [Conclusion](#conclusion)
 
+## Installation of the packages
+To install the required packages for this project, you can use the requirements.txt file that lists all the dependencies.
+
+First, ensure that you have Python installed on your system. This project requires Python version 3.6 or higher.
+
+To install the packages listed in requirements.txt, open a terminal window and navigate to the directory where the file is located. Then, run the following command:
+
+pip install -r requirements.txt
+
+This will install all the packages and their dependencies listed in requirements.txt.
+
+If you encounter any errors during the installation, please ensure that you have the necessary permissions to install packages on your system. Additionally, some packages may require additional dependencies or system configurations, so please refer to the package documentation for further instructions.
+
+Once the packages are installed, you can run the project using a Python IDE or by running the appropriate command-line script.
+
 ## Data Sources
 
 ### Fundamental Analysis
