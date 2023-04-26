@@ -28,27 +28,22 @@ The project uses the 10-k and 10-q reports to extract the following data:
 
 ### Dataset URLs:
 A variety of data sets that can be used for this project, including:
-
-Nasdaq: https://finance.yahoo.com/quote/%5EIXIC/history/
-S&P 500: https://finance.yahoo.com/quote/%5EGSPC/history/
-Euronext: https://finance.yahoo.com/quote/%5EN100/history/
-Dow 30: https://finance.yahoo.com/quote/%5EDJI/history/
-NYSE composite: https://finance.yahoo.com/quote/%5ENYA/history?p=%5ENYA
-Cboe UK 100: https://finance.yahoo.com/quote/%5EBUK100P/history?p=%5EBUK100P
-Russell 2000: https://finance.yahoo.com/quote/%5ERUT/history?p=%5ERUT
-Bel 20: https://finance.yahoo.com/quote/%5EBFX/history?p=%5EBFX
-Moex Russia index: https://finance.yahoo.com/quote/IMOEX.ME/history?p=IMOEX.ME
-Nikkei 225: https://finance.yahoo.com/quote/%5EN225/history?p=%5EN225
-Hang Seng Index: https://finance.yahoo.com/quote/%5EHSI/history?p=%5EHSI
-SSE Composite Index: https://finance.yahoo.com/quote/000001.SS/history?p=000001.SS
-Shenzhen Composite: https://finance.yahoo.com/quote/399001.SZ/history?p=399001.SZ
-Jakarta Composite Index: https://finance.yahoo.com/quote/%5EJKSE/history?p=%5EJKSE
-Kospi Composite Index: https://finance.yahoo.com/quote/%5EKS11/history?p=%5EKS11
-TSEC Weighted Index: https://finance.yahoo.com/quote/%5ETWII/history?p=%5ETWII
-IBOVESPA: https://finance.yahoo.com/quote/%5EBVSP/history?p=%5EBVSP
-IPC Mexico: https://finance.yahoo.com/quote/%5EMXX/history?p=%5EMXX
-Merval: https://finance.yahoo.com/quote/%5EMERV/history?p=%5EMERV
-Ta-125: https://finance.yahoo.com/quote/%5ETA125.TA/history?p=%5ETA125.TA
+<ul>
+  <li>Nasdaq: <a href="https://finance.yahoo.com/quote/%5EIXIC/history/">https://finance.yahoo.com/quote/%5EIXIC/history/</a></li>
+  <li>S&amp;P 500: <a href="https://finance.yahoo.com/quote/%5EGSPC/history/">https://finance.yahoo.com/quote/%5EGSPC/history/</a></li>
+  <li>Euronext: <a href="https://finance.yahoo.com/quote/%5EN100/history/">https://finance.yahoo.com/quote/%5EN100/history/</a></li>
+  <li>Dow 30: <a href="https://finance.yahoo.com/quote/%5EDJI/history/">https://finance.yahoo.com/quote/%5EDJI/history/</a></li>
+  <li>NYSE composite: <a href="https://finance.yahoo.com/quote/%5ENYA/history?p=%5ENYA">https://finance.yahoo.com/quote/%5ENYA/history?p=%5ENYA</a></li>
+  <li>Cboe UK 100: <a href="https://finance.yahoo.com/quote/%5EBUK100P/history?p=%5EBUK100P">https://finance.yahoo.com/quote/%5EBUK100P/history?p=%5EBUK100P</a></li>
+  <li>Russell 2000: <a href="https://finance.yahoo.com/quote/%5ERUT/history?p=%5ERUT">https://finance.yahoo.com/quote/%5ERUT/history?p=%5ERUT</a></li>
+  <li>Bel 20: <a href="https://finance.yahoo.com/quote/%5EBFX/history?p=%5EBFX">https://finance.yahoo.com/quote/%5EBFX/history?p=%5EBFX</a></li>
+  <li>Moex Russia index: <a href="https://finance.yahoo.com/quote/IMOEX.ME/history?p=IMOEX.ME">https://finance.yahoo.com/quote/IMOEX.ME/history?p=IMOEX.ME</a></li>
+  <li>Nikkei 225: <a href="https://finance.yahoo.com/quote/%5EN225/history?p=%5EN225">https://finance.yahoo.com/quote/%5EN225/history?p=%5EN225</a></li>
+  <li>Hang Seng index: <a href="https://finance.yahoo.com/quote/%5EHSI/history?p=%5EHSI">https://finance.yahoo.com/quote/%5EHSI/history?p=%5EHSI</a></li>
+  <li>SSE composite index: <a href="https://finance.yahoo.com/quote/000001.SS/history?p=000001.SS">https://finance.yahoo.com/quote/000001.SS/history?p=000001.SS</a></li>
+  <li>Shenzhen composite: <a href="https://finance.yahoo.com/quote/399001.SZ/history?p=399001.SZ">https://finance.yahoo.com/quote/399001.SZ/history?p=399001.SZ</a></li>
+  <li>Jakarta composite index: <a href="https://finance.yahoo.com/quote/%5EJKSE/history?p=%5EJKSE">https://finance.yahoo.com/quote/%5EJKSE/history?p=%5EJKSE</a></li>
+ </ul>
 
 These data sets include historical data for various stock market indexes and can be used to generate the technical indicators needed for the correlated assets analysis section of the project.
 
